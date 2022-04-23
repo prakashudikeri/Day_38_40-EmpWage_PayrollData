@@ -1,0 +1,1 @@
+sAndWage.dayNum);
